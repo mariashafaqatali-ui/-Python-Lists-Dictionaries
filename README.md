@@ -1,5 +1,5 @@
 # Smart Grocery Store Management System
-
+![Smart Grocery Store Management System](banner_main.svg)
 A menu-driven, console-based Python application for managing a small grocery store. It handles products, stock, customer sales and a summary report, using only core Python concepts: **lists, dictionaries, loops, conditional statements and custom functions**.
 **[HTML Preview](https://claude.ai/artifact/EbdUPpE8MoNfWR7L3xSp8R)**
 ## Features
